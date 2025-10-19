@@ -17,8 +17,8 @@ To evaluate campaign performance, the insights focused on the following key metr
 - **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
 - **Click through Rate (CTR):** The percentage of people who see a campaign and click on the associated link.
 
-> - ERD of Dataset can be found [here]
-
+> - ERD of Dataset can be found [here
+](https://github.com/gh-joeyleung/everwell-medical-insurance-analysis/blob/main/Everwell%20Data%20Structure.png)
 # Insights Summary
 
 **Signup Rate**
